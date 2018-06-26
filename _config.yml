@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
  Ashwathama is a minimal website with an app like design. It also features card layouts for website elements.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.techpointcloud.com"
-permalink: :./
+permalink: :title/
 full-url: "http://www.techpointcloud.com" # the base hostname & protocol for your site
 
 #baseurl: "/ashwath" # the subpath of your site, e.g. /blog
